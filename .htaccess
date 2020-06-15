@@ -1,5 +1,6 @@
 # Static URL-Shortener
 RewriteEngine on
+Redirect 301 go https://machinelearningforkids.co.uk/
 Redirect 301 affe https://buch.informatik.cc/ki/#/ml4k-affen
 Redirect 301 ki http://buch.informatik.test/ki/#/ 
 Redirect 301 tasse http://buch.informatik.test/ki/#/ml4k-objektkennung 
