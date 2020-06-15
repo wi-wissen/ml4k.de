@@ -1,10 +1,10 @@
 # Static URL-Shortener
 RewriteEngine on
-Redirect 301 go https://machinelearningforkids.co.uk/
-Redirect 301 affe https://buch.informatik.cc/ki/#/ml4k-affen
-Redirect 301 ki http://buch.informatik.test/ki/#/ 
-Redirect 301 tasse http://buch.informatik.test/ki/#/ml4k-objektkennung 
-Redirect 301 zombie http://buch.informatik.test/ki/#/ml4k-zombies 
-Redirect 301 gesicht http://buch.informatik.test/ki/#/gesichtererkennung?id=eine-virtuelle-clownsnase-aufsetzen 
-Redirect 301 unplugged https://ddi.cs.fau.de/schule/ai-unplugged/ 
-Redirect 301 appcamps https://appcamps.de/unterrichtsmaterial/kuenstliche-intelligenz/ 
+Redirect 301 /go https://machinelearningforkids.co.uk/
+Redirect 301 /affe https://buch.informatik.cc/ki/#/ml4k-affen
+Redirect 301 /ki http://buch.informatik.test/ki/#/ 
+Redirect 301 /tasse http://buch.informatik.test/ki/#/ml4k-objektkennung 
+Redirect 301 /zombie http://buch.informatik.test/ki/#/ml4k-zombies 
+Redirect 301 /gesicht http://buch.informatik.test/ki/#/gesichtererkennung?id=eine-virtuelle-clownsnase-aufsetzen 
+Redirect 301 /unplugged https://ddi.cs.fau.de/schule/ai-unplugged/ 
+Redirect 301 /appcamps https://appcamps.de/unterrichtsmaterial/kuenstliche-intelligenz/ 
